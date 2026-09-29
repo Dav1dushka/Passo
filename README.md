@@ -1,3 +1,3 @@
 # Passo
 
-Job tracker.
+Job tracker PWA built with React, TypeScript and Vite.
