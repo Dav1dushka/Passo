@@ -373,3 +373,5 @@ function ApplicationModal({ value, onClose, onDelete, onSave }: { value?: Applic
     </form>
   </div>;
 }
+
+export default App;
